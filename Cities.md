@@ -1,0 +1,29 @@
+# Cities
+- [x] Houston
+- [x] San Antonio
+- [x] Austin
+- [x] Dallas
+- [x] Miami
+- [x] San Francisco
+- [x] Los Angeles
+- [x] Antigua Guatemala
+- [ ] New York
+- [ ] Las Vegas
+- [ ] Vancouver
+- [ ] Roatan
+- [ ] Toronto
+- [ ] Barcelona
+- [ ] Madrid
+- [ ] Sevilla
+- [ ] Galicia
+- [ ] Nápoles
+- [ ] Venecia
+- [ ] Milan
+- [ ] Roma
+- [ ] Ciudad de Mexico
+- [ ] Tijuana
+- [ ] Londres
+- [ ] Liverpool
+- [ ] Dortmund
+- [ ] Berlin
+- [ ] Atenas

@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "971753b984c9ea34",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a58b95ea5a44682",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e11b0292ab5ae84f",
+    "type": "split",
+    "children": [
+      {
+        "id": "999dfc6b7774b70e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ad831598c84b087",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "80dd0679e53b5ed8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e353c106c6a4c7aa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c5d31427ad2a0334",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b0a115315c68648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2db80f4f30dc915c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0cb6dc2692e5611e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d1f2482db238783",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d0b523c797c3dbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8a58b95ea5a44682",
+  "lastOpenFiles": [
+    "RoadMap.md",
+    "Recursos Web/Comandos.md",
+    "Recursos Web/Regex.md",
+    "Ingles/Writing.md",
+    "Ingles/phrases.md",
+    "Ingles/vocabulary.md",
+    "Recursos Web/React JS.md",
+    "Recursos Web/Jest.md",
+    "Ingles/Rules and symbols.md",
+    "Recursos Web/JavaScript.md"
+  ]
+}
